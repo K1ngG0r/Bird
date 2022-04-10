@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
 body {
     /* Сброс стандартых стилей */
     margin: 0;
+    font-family: 'Rubik Wet Paint', cursive;
 }
 
 .nav {
@@ -50,4 +53,7 @@ body {
 }
 .wrapper {
     display: flex;
+}
+.img404{
+    width:100vw;
 }
